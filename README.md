@@ -1,3 +1,5 @@
-<div align='center'>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Em+Transi%C3%A7%C3%A3o+para+Cloud+%26+Cyber+Security;AWS+re%2FStart+%7C+Google+Cyber+Security;Python+%7C+DevSecOps+%7C+IaC;Construindo+o+Futuro+em+Seguran%C3%A7a+Cloud)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Em+Transi%C3%A7%C3%A3o+para+Cloud+%26+Cyber+Security;AWS+re%2FStart+%7C+Google+Cyber+Security;Python+%7C+DevSecOps+%7C+IaC;Construindo+o+Futuro+em+Seguran%C3%A7a+Cloud" alt="Typing SVG" />
+  </a>
 </div>

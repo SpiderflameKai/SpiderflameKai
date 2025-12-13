@@ -49,6 +49,9 @@ class GuilhermeCastroMelo:
 ```
 
 ---
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVlMGtmdm5yNmM1NndyYjRzZXZiMDg5MDRhbTducmczMXltcDVlMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5E9uS9vKcwu0n7svJA/giphy.gif" width="300">
+</div>
 
 ## 🛠️ Stack Técnica
 

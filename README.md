@@ -89,7 +89,7 @@ class GuilhermeCastroMelo:
 | AWS re/Start | Amazon Web Services | 🔄 Em andamento |
 | Cyber Security Certificate | Google | 🔄 Em andamento |
 | Geração Tech | - | 🔄 Em andamento |
-| Desenvolvimento Web Full Stack | - | ✅ Concluído |
+| Desenvolvimento Web Full Stack |  - | 🔄 Em andamento |
 | Excel Avançado | - | ✅ Concluído |
 
 </div>
